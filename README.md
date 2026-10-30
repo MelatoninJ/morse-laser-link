@@ -59,3 +59,9 @@ prints to serial only.
 ## Licence
 
 MIT. See `LICENSE`.
+
+
+## Special Thanks
+
+To Seoul Global High School (SGHS), for participating communication event and making their rooftop accessible to test and run the laser morse 
+transceivers over a long distance.
